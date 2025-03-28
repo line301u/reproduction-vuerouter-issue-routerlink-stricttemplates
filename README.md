@@ -1,6 +1,4 @@
-# vue-test
-
-This template should help get you started developing with Vue 3 in Vite.
+# # Reproduction of vuerouter issue using event handlers with RouterLink combined with vueCompilerOptions strictTemplates
 
 ## Recommended IDE Setup
 
